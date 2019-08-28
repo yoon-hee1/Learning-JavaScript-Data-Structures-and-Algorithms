@@ -8,9 +8,6 @@
 
 4.`fork`뜬 저장소를 `clone` 한뒤 `git remote add upstream https://github.com/javascript-algorithm-study/Learning-JavaScript-Data-Structures-and-Algorithms.git`
 
-<<<<<<< HEAD
-5. 2주 이상 아무것도 진행하지 않을시 패널티
-=======
 5.`git remote -v` 를 하면 `orgin`과 `upstream`이 뜨면 완료.
 
 6.organization의 [Learning-JavaScript-Data-Structures-and-Algorithms](https://github.com/javascript-algorithm-study/Learning-JavaScript-Data-Structures-and-Algorithms)에 branch를 생성하고 `fork`뜬 저장소에도 branch를 똑같이 만들어서 sync를 맞춘뒤 내 원격저장소에 커밋후 organization의 브런치로 풀리퀘를 날린다.
@@ -22,4 +19,3 @@
 9.[공용 저장소 README](https://github.com/javascript-algorithm-study/Learning-JavaScript-Data-Structures-and-Algorithms.git)에 개인별 현황을 기록한다
 
 10.2주 이상 아무것도 진행하지 않을시 패널티 
->>>>>>> upstream/master
