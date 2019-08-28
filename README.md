@@ -8,4 +8,4 @@
 
 4. [공용 저장소 README](https://github.com/javascript-algorithm-study/Learning-JavaScript-Data-Structures-and-Algorithms.git)에 개인별 현황을 기록한다
 
-5. 2주 이상 아무것도 진행하지 않을시 패널티 
+5. 2주 이상 아무것도 진행하지 않을시 패널티
