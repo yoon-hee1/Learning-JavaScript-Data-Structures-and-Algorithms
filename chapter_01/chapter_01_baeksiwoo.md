@@ -10,6 +10,7 @@ categories: Learning JavaScript Data Structures and Algorithms
 
 **Javascript**를 통한 학습을 진행하므로 그에 대한 선수지식이 필요하다. 교보재의 1장 내용에 그것들이 매우 심플하게 요약되어 있다. 변수, 연산자, Truthy와 Falsy, 동등 연산자(==, ===), 각종 제어구조, 그리고 함수 문법과 객체지향 프로그래밍의 개략적인 내용을 빠르게 들여다 볼 수 있다. 그 내용들을 아래와 같이 짚어보자면
 
+
 * **변수**
 
 숫자(Number), 문자열(String), 불린(Boolean), 함수(Function), 객체(Object), undefined, null, 배열(array), 날짜(date), 정규표현식(regular expression)
@@ -17,6 +18,7 @@ categories: Learning JavaScript Data Structures and Algorithms
 Number, String, Boolean, Function, Object 등은 다른 언어에서의 그것들과 거의 동일한 개념이라고 할 수 있다.
 undefined란 선언은 했으나 아직 값이 할당되지 않은 것을 의미한다.
 Function의 경우, global Function(또는 global variable)를 사용하는 것은 지양된다.
+
 
 * **연산자**
 
@@ -27,6 +29,7 @@ Function의 경우, global Function(또는 global variable)를 사용하는 것�
 비교연산자의 종류는 ==(같은), ===(값, 객체타입이 모두 같은), !=(같지않은), >(더 큰), >=(같거나 더 큰), <, <=이 있다.
 논리연산자의 종류는 &&(AND), ||(OR), !(NOT)가 있다.
 비트연산자의 종류는 &(AND), |(OR), ~(NOT), ^(XOR), <<(왼쪽으로 시프트), >>(오른쪽으로 시프트)가 있다.
+
 
 * **Truthy와 Falsy**
 
@@ -39,6 +42,7 @@ Number는 일반적으로 true이지만, +0, -0, NaN(음수에 대한 제곱근�
 String은 일반적으로 true이지만, 길이가 0인 String(빈 문자열)인 경우 false이다.
 Object는 true이다.
 
+
 * **동등 연산자(==, ===)**
 타입(x)와 타입(y)에 대한 결과는 다음과 같다.(console.log(x==y))
 console.log(null == undefined)는 true이다.
@@ -49,6 +53,7 @@ console.log(Boolean == Any)는 일단 toNumber method를 통해 Boolean을 판�
 console.log(Any == Boolean)은 바로 위와 동일한 방식으로 비견한다.
 console.log(String이나 Number == Object)는 일단 toPrimitve method를 통해 Object를 판단하는데, 만약 Object의 valueOf 결과가 기본 값이라면 기본 값 그대로 반환한 후에 String이나 Number와 비견한다.
 console.log(Object == String이나 Number)는 바로 위와 동일한 방식으로 비견한다.
+
 
 * **제어구조**
 제어구조는 아래와 같이 사용된다.
