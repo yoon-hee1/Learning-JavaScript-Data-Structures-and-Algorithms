@@ -130,3 +130,4 @@ book.printTitle();
 ```
 
 - <https://poiemaweb.com/es6-class> ES6 Class
+\
