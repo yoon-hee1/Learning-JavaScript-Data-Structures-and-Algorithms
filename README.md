@@ -40,3 +40,4 @@ chapter1. 자바스크립트 개요
 https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter1_xiah/chapter1/summary.js
 
 chapter2. 배열
+https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter2_xiah/chapter2/Arrangement.md
