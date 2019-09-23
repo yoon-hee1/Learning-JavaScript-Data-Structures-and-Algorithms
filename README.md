@@ -35,3 +35,8 @@
 ## :pencil: 개인 공부 현황
 
 ### 1주차(19.09.16 ~ 19.09.23)
+
+chapter1. 자바스크립트 개요
+https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter1_xiah/chapter1/summary.js
+
+chapter2. 배열
