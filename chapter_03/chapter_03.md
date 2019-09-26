@@ -15,3 +15,5 @@ const digits2 = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C'
 digits1[0]; // '0'
 digits2[0]; // '0'
 ```
+## Stack 클래스 사용, 2, 8, 16진수 변환
+> [chapter_03.js](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_03/chapter_03.js)
