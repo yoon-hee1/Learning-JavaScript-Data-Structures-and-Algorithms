@@ -1,0 +1,32 @@
+1. 변수 = {숫자 || 문자열 || 불린 || 함수 || 객체 || undifined || null || 배열 || 날짜 || 정규 표현식}
+
+2. 연산자 = {산술 || 할당 || 비교 || 논리 || 비트}
+    - delete 연산자
+        var myObj = {name:'Jone', age:21};
+        delete myObj.age;
+        //myObj = {name:'Jone'}
+
+    - 동등연산자(==/===)
+        '==='는 type까지 일치할 경우에만 true를 리턴
+3. 제어구조
+    -조건문: if...else, 삼항 연산자, switch
+    -루프문: for, while, do...while
+
+4. 함수
+    //함수를 표현하는 방법1
+    var a = function(){
+        //function 구현
+    }
+
+    //함수를 표현하는 방법2
+    function a(){
+        //function 구현
+    }
+
+5. 객체지향 프로그래밍
+
+
+
+
+
+
