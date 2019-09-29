@@ -63,3 +63,60 @@ stack.print(); // 5
 ```
 
 ### 10진수에서 2진수로 변환
+
+<!--  -->
+
+```javascript
+function DivideBy2(decNumber) {
+  var remStack = new Stack();
+  var rem;
+  var binaryString = "";
+
+  function loop(decNumber) {
+    if (decNumber <= 0) {
+      return;
+    }
+    rem = decNumber % 2;
+    remStack.push(rem);
+    var newDecNumber = Math.floor(decNumber / 2);
+    loop(newDecNumber);
+  }
+  loop(decNumber);
+  while (!remStack.isEmpty()) {
+    binaryString += remStack.pop().toString();
+  }
+  return binaryString;
+}
+
+console.log(DivideBy2(10));
+```
+
+### 10진수에서 다른진수로 변환
+
+```javascript
+function baseConverter(decNumber, base) {
+  var remStack = new Stack();
+  var rem;
+  var baseString = "";
+  var digits = "0123456789ABCDEF";
+
+  function loop(decNumber) {
+    if (decNumber <= 0) {
+      return;
+    }
+    rem = decNumber % base;
+    remStack.push(rem);
+    var newDecNumber = Math.floor(decNumber / base);
+    loop(newDecNumber);
+  }
+
+  loop(decNumber);
+
+  while (!remStack.isEmpty()) {
+    baseString += digits[remStack.pop()];
+  }
+  return baseString;
+}
+
+console.log(baseConverter(1000345, 16));
+```
