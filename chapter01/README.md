@@ -37,19 +37,15 @@
 
 ## :pencil: 개인 공부 현황
 
-<<<<<<< HEAD:chapter01/README.md
 ### 1주차(19.09.16 ~ 19.09.23) 배열
 - [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter1_xiah/chapter1/summary.js) [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter2_xiah/chapter2/Arrangement.md)
 - [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_01/chapter_01.md)
 - [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_02/chapter_02.md)
 - [kimchunyong](https://github.com/kimchunyong/Learning-JavaScript-Data-Structures-and-Algorithms/blob/kimchunyong/chapter_01/array.js)
-- [yoon-hee1](https://github.com/yoon-hee1/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter_1yooonhee/chapter_1.md)
+- [yoon-hee1](https://github.com/yoon-hee1/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter_1yoonhee/chapter01/chapter_1.md)
 
 ### 2주차(19.09.24 ~ 19.09.29) 스택
 - [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter3_xiah/chapter3/Stack.md)
 - [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_03/chapter_03.md)
 
-=======
-### 1 주차 (19.09.16 ~ 19.09.23)
-1. CSS 플렉스속성 
->>>>>>> Update README.md:README.md
+
