@@ -48,4 +48,5 @@
 ### 2주차(19.09.24 ~ 19.09.29) 스택
 - [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter3_xiah/chapter3/Stack.md)
 - [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_03/chapter_03.md)
+- [kimchunyong](https://github.com/kimchunyong/Learning-JavaScript-Data-Structures-and-Algorithms/tree/kimchunyong/chapter_02)
 
