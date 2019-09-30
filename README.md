@@ -27,7 +27,6 @@
 ### 1주차(19.09.16 ~ 19.09.23)
 
 1. 자바스크립트 개요
-2. 배열
 
 ---
 ### 2주차(19.09.24 ~ 19.09.29)
@@ -43,6 +42,8 @@
 - [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_01/chapter_01.md)
 - [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_02/chapter_02.md)
 - [kimchunyong](https://github.com/kimchunyong/Learning-JavaScript-Data-Structures-and-Algorithms/blob/kimchunyong/chapter_01/array.js)
+- [yoon-hee1](https://github.com/yoon-hee1/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter_1yooonhee/chapter_1.md)
+
 
 ### 2주차(19.09.24 ~ 19.09.29) 스택
 - [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter3_xiah/chapter3/Stack.md)
