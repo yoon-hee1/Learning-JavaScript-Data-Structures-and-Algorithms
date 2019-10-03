@@ -51,7 +51,7 @@
 - [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_03/chapter_03.md)
 - [kimchunyong](https://github.com/kimchunyong/Learning-JavaScript-Data-Structures-and-Algorithms/tree/kimchunyong/chapter_02)
 - [shldhee](https://github.com/shldhee/Learning-JavaScript-Data-Structures-and-Algorithms/blob/shldhee/ch3/ch3.md)
-
+- [yoonhee1](https://github.com/yoon-hee1/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter_2yoonhee/chapter02/chapter_2.md)
 
 ### 3주차(19.09.30 ~ 19.10.06) 큐
 
