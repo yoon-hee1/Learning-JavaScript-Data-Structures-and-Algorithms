@@ -1,5 +1,7 @@
 # Learning-JavaScript-Data-Structures-and-Algorithms
+
 ## 📋 Rules
+
 1.매 주마다 공부할 범위를 정한뒤 7일동안 공부한 내용을 개인 저장소, 호스팅, 블로그, Notion 등 모두에게 공개될 수 있는 플랫폼을 통해 기록을 남긴다.
 
 2.organization안의 [Learning-JavaScript-Data-Structures-and-Algorithms](https://github.com/javascript-algorithm-study/Learning-JavaScript-Data-Structures-and-Algorithms) 우측상단의 `fork` 버튼으로 개인 저장소로 가져간다.
@@ -18,9 +20,7 @@
 
 9.[공용 저장소 README](https://github.com/javascript-algorithm-study/Learning-JavaScript-Data-Structures-and-Algorithms.git)에 개인별 현황을 기록한다
 
-10.2주 이상 아무것도 진행하지 않을시 패널티 
-
-
+10.2주 이상 아무것도 진행하지 않을시 패널티
 
 ## :book: 스터디 진도
 
@@ -31,7 +31,24 @@
 
 ---
 
+### 2주차(19.09.24 ~ 19.09.29)
+
+1. 스택
+
+---
 
 ## :pencil: 개인 공부 현황
 
-### 1주차(19.09.16 ~ 19.09.23)
+### 1주차(19.09.16 ~ 19.09.23) 배열
+
+- [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter1_xiah/chapter1/summary.js) [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter2_xiah/chapter2/Arrangement.md)
+- [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_01/chapter_01.md)
+- [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_02/chapter_02.md)
+- [kimchunyong](https://github.com/kimchunyong/Learning-JavaScript-Data-Structures-and-Algorithms/blob/kimchunyong/chapter_01/array.js)
+- [shldhee](https://github.com/shldhee/Learning-JavaScript-Data-Structures-and-Algorithms/blob/shldhee/ch2/ch2.md)
+
+### 2주차(19.09.24 ~ 19.09.29) 스택
+
+- [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter3_xiah/chapter3/Stack.md)
+- [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_03/chapter_03.md)
+- [shldhee](https://github.com/shldhee/Learning-JavaScript-Data-Structures-and-Algorithms/blob/shldhee/ch3/ch3.md)
