@@ -59,4 +59,3 @@
 - [xiah](https://github.com/noel88/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter4_xiah/chapter4/Queue.md)
 - [shldhee](https://github.com/shldhee/Learning-JavaScript-Data-Structures-and-Algorithms/blob/shldhee/ch4/ch4.md)
 - [yongseon](https://github.com/yongseon01/Learning-JavaScript-Data-Structures-and-Algorithms/blob/yongseon/chapter04-queue/Queue.md)
-
