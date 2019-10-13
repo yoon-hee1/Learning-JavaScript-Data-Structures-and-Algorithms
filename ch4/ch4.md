@@ -192,7 +192,7 @@ var names = ["John", "Jack", "Camila", "Ingrid", "Carl"];
 var winner = hotPotato(names, 7);
 console.log("승자는" + winner + "입니다.");
 
-// 2. 앞 InGrid
-// 3. 앞 InGrid
-// 4. 앞 Jon
+2. 앞 InGrid
+3. 앞 InGrid
+4. 앞 Jon
 ```
