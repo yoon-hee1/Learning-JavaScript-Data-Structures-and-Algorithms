@@ -6,3 +6,4 @@
 > * head + (node + next)로 참조의 참조의 참조의 참조의.... 참조
 > * '연결', '루프'의 개념은 무조건 어떤 요소의 next를 사용하는 것 뿐<br>
 > (ex. 요소 = 요소.next)
+> [chapter_05.js](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_05/chapter_05.js)
