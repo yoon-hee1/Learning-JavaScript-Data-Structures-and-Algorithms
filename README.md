@@ -64,3 +64,9 @@
 
 - [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_05/chapter_05.md)
 - [shldhee](https://github.com/shldhee/Learning-JavaScript-Data-Structures-and-Algorithms/blob/shldhee/ch5/ch5.md)
+
+### 5주차(19.10.15 ~ 19.10.22) -- 휴식
+
+### 6주차(19.10.23 ~ 19.10.30) 집합
+
+- [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_06/chapter_06.md)
