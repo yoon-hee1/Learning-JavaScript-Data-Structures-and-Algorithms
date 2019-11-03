@@ -63,6 +63,8 @@
 
 ### 4주차(19.10.7 ~ 19.10.14) 연결리스트
 - [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_05/chapter_05.md)
+
+- [yoonhee1](https://github.com/yoon-hee1/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter_4yoonhee/chapter04/chapter_4.md)
 - [shldhee](https://github.com/shldhee/Learning-JavaScript-Data-Structures-and-Algorithms/blob/shldhee/ch5/ch5.md)
 
 ### 5주차(19.10.15 ~ 19.10.22) -- 휴식
@@ -71,3 +73,4 @@
 - [zxczoxc125](https://github.com/zxczoxc125/Learning-JavaScript-Data-Structures-and-Algorithms/blob/zxczoxc125/chapter_06/chapter_06.md)
 - [shldhee](https://github.com/shldhee/Learning-JavaScript-Data-Structures-and-Algorithms/blob/shldhee/ch6/ch6.md)
 - [yoonhee1](https://github.com/yoon-hee1/Learning-JavaScript-Data-Structures-and-Algorithms/blob/chapter5_yoonhee/chapter05/chapter_5.md)
+
